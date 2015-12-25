@@ -1,6 +1,13 @@
 <html>
 <head/>
 <body>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <canvas id='midterm4' width='500' height='500'>
 <script>
 	function method(triangle) {
